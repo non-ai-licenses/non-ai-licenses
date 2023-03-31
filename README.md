@@ -1,4 +1,4 @@
-# Non-AI Licenses
+# Non-AI Licenses <img width="40" src="hal.png"> </img>
 
 This repository contains templates for software licenses that restrict software from being used in AI training datasets or AI technologies.
 
