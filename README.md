@@ -2,7 +2,7 @@
 
 This repository contains templates for software and digital work licenses that restrict software and other work from being used in AI training datasets or AI technologies.
 
-<p align="center"><img width="120" src="non-ai-2.png"> </img></p>
+<p align="center"><img width="80" src="non-ai-2.png"> </img></p>
 
 Direct links to licenses:
 
