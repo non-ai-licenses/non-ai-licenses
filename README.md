@@ -12,6 +12,7 @@ This repository contains templates for software and digital work licenses that r
 - 3-Clause BSD Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-BSD3)
 - MIT Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-MIT)
 - UPL Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-UPL)
+- ISC Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-ISC)
 - CC0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-CC0)
 
 <p align="center"><img width="24" src="hal.png"></img></p>
