@@ -222,8 +222,9 @@ The Covered Software and any modifications made to it may not be used
 for the purpose of training or improving machine learning algorithms,
 including but not limited to artificial intelligence, natural language
 processing, or data mining. This condition applies to any derivatives,
-modifications, or updates based on the Software code. Any usage of the
-Software in an AI-training dataset is considered a breach of this License.
+modifications, or updates based on the Covered Software code. Any usage
+of the Covered Software in an AI-training dataset is considered a breach
+of this License.
 
 4. Inability to Comply Due to Statute or Regulation
 ---------------------------------------------------
