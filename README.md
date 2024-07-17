@@ -15,5 +15,7 @@ This repository contains templates for software and digital work licenses that r
 - ISC Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-ISC)
 - CC0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-CC0)
 - MPL-2.0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-MPL-2.0)
+- BSL-1.0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-BSL-1.0)
+- Unlicense-Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-UNLICENSE)
 
 <p align="center"><img width="24" src="hal.png"></img></p>
