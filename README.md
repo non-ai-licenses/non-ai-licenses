@@ -17,5 +17,6 @@ This repository contains templates for software and digital work licenses that r
 - MPL-2.0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-MPL-2.0)
 - BSL-1.0 Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-BSL-1.0)
 - Unlicense-Style License: [GitHub](https://raw.githubusercontent.com/non-ai-licenses/non-ai-licenses/main/NON-AI-UNLICENSE)
+- zlib Style License: [GitHub](https://github.com/non-ai-licenses/non-ai-licenses/blob/main/NON-AI-ZLIB)
 
 <p align="center"><img width="24" src="hal.png"></img></p>
